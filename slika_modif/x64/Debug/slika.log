@@ -1,0 +1,14 @@
+﻿  Crnobelaslika.cpp
+  Galerija.cpp
+  Piksel.cpp
+  Pozicija.cpp
+  Main.cpp
+  Sarenaslika.cpp
+  Slika.cpp
+  Slikanijanse.cpp
+  Uredjenagalerija.cpp
+  Vreme.cpp
+  Generating Code...
+C:\Users\Korisnik\Desktop\domaci zad\slika\Slika.cpp(76): warning C4172: returning address of local variable or temporary: p
+C:\Users\Korisnik\Desktop\domaci zad\slika\Galerija.cpp(95): warning C4715: 'Galerija::operator[]': not all control paths return a value
+  slika.vcxproj -> C:\Users\Korisnik\Desktop\domaci zad\x64\Debug\slika.exe
