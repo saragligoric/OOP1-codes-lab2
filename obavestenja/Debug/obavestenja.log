@@ -1,0 +1,9 @@
+﻿  Korisnik.cpp
+  Obavestenje.cpp
+  Objava.cpp
+  main.cpp
+  Generating Code...
+  Lista.cpp
+C:\Users\Korisnik\Desktop\codes\LABOVI\2. lab\V2\obavestenja\obavestenja\Lista.cpp(54): warning C4715: 'Lista::operator[]': not all control paths return a value
+C:\Users\Korisnik\Desktop\codes\LABOVI\2. lab\V2\obavestenja\obavestenja\Lista.cpp(63): warning C4715: 'Lista::operator[]': not all control paths return a value
+  obavestenja.vcxproj -> C:\Users\Korisnik\Desktop\codes\LABOVI\2. lab\V2\obavestenja\Debug\obavestenja.exe
